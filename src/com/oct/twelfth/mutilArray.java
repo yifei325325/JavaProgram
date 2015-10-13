@@ -17,7 +17,7 @@ public class mutilArray {
 			for(int j=0;j<6;j++){
 				System.out.print(a[i][j]+"  ");
 			}
-			System.out.print("\n");
+			System.out.println("");
 		}
 	}
 }
