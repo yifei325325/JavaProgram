@@ -3,7 +3,6 @@
  */
 package com.oct.seventeenth;
 import java.util.*;
-import java.awt.Choice;
 import java.io.*;
 public class EmpSystem {
 
@@ -68,26 +67,10 @@ public class EmpSystem {
 			}
 			
 		}
-		
-		
-	
-//		em.showEmpInfo("LS003");
-//		em.modifySal("LS003",2001f);
-//		System.out.println("=========修改后的薪水如下=========");
-//		em.showEmpInfo("LS003");
-//		System.out.println("=========删除一个雇员=========");
-//		em.delEmp("LS003");
-//		System.out.println("=========所有员工信息如下=========");
-//		em.showAllEmpInfo();
-//		System.out.println("=========重新添加一个雇员=========");
-//		em.addEmp(emp5);
-//		em.showAllEmpInfo();
-		
-		
-
 	}
 
 }
+
 //管理雇员类
 class EmpManagement{
 	private ArrayList al = null;
