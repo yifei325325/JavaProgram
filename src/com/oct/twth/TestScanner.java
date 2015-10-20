@@ -1,3 +1,6 @@
+/**
+ * Scanner ÀàµÄÑ§Ï°
+ */
 package com.oct.twth;
 
 import java.util.Scanner;
