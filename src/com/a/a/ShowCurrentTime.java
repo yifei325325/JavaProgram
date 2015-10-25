@@ -3,7 +3,6 @@
  */
 package com.a.a;
 
-import java.util.TimeZone;
 
 
 public class ShowCurrentTime {
