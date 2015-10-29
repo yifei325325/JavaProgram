@@ -15,6 +15,7 @@ public class Demo_Extends {
 		student.setSchool("清华大学");//学生类自己的方法
 		System.out.println("学校："+student.getSchool());
 		System.out.println("test");
+		System.out.println("test4");
 
 	}
 
