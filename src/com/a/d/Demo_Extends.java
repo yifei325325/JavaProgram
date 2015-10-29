@@ -14,11 +14,7 @@ public class Demo_Extends {
 		System.out.println("姓名："+student.getName());
 		student.setSchool("清华大学");//学生类自己的方法
 		System.out.println("学校："+student.getSchool());
-		System.out.println("test");
-
 	}
-
-	
 }
 //人类
 class Person{
