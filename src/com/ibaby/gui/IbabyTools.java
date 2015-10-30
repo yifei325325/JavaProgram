@@ -31,11 +31,18 @@ public class IbabyTools extends JFrame {
 		displayLocalIp = new JTextField();
 		displayLocalIp.setBorder(null);
 		displayLocalIp.setText("本机的IP地址是："+hostIP);
+		displayLocalIp.setEditable(false);
+		
+		//显示搜索结果的文本框
+		searchResult = new JList<String>();
 		
 		
 		
 		this.add(displayLocalIp);
-		this.setSize(300,300);
+		this.setTitle("iBabyTools V1.0");
+		this.setLocation(100,100);
+		this.setSize(520,650);
+		this.setResizable(false);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		this.setVisible(true);
 	}
