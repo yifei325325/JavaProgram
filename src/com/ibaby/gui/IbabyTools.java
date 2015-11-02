@@ -6,6 +6,7 @@ import java.awt.*;
 import javax.swing.*;
 
 public class IbabyTools extends JFrame {
+	JPanel leftUp,rightUp,bottom;
 	JTextField displayLocalIp;
 	JLabel camTypeLabel,iBabyLabsLable;
 	JList<String> searchResult,opertionResult;
@@ -26,7 +27,11 @@ public class IbabyTools extends JFrame {
 	}
 	//构建组件
 	public IbabyTools() {
-		// TODO Auto-generated constructor stub
+//		3个panel
+		leftUp = new JPanel();
+		rightUp  = new JPanel();
+		bottom = new JPanel();
+		
 //		显示本机IP地址的文本框
 		displayLocalIp = new JTextField();
 		displayLocalIp.setBorder(null);
