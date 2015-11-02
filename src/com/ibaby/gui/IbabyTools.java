@@ -15,10 +15,6 @@ public class IbabyTools extends JFrame {
 	JCheckBox selectAllBox;
 	JButton searchButton,updateButton,checkversionButton;
 	String hostIP = "10.0.0.2";
-	
-	
-	
-	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
