@@ -22,7 +22,7 @@ public class TestEvent2 extends JFrame{
 //		×¢²á¼àÌý
 		this.addMouseListener(mp2);
 		this.addKeyListener(mp2);
-//		this.addMouseMotionListener(mp2);
+		this.addMouseMotionListener(mp2);
 		this.addWindowListener(mp2);
 		
 		this.setSize(400,300);
