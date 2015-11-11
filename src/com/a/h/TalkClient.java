@@ -25,8 +25,6 @@ public class TalkClient {
 		String test = "helloworld";
 		String s = test.substring(4,9);
 		System.out.println(s);
-		
-
 	}
 
 }
