@@ -1,6 +1,6 @@
 package com.package1;
 /*
- * 类方法；静态区域块的学习
+ * 类变量；静态区域块的学习
  */
 public class Test6 {
 	
