@@ -75,7 +75,7 @@ class Student1{
 
 	
 	
-	
+	//默认构造方法，不能不写，否则不传参 的构造方法不能用
 	public Student1(){
 		
 	}
