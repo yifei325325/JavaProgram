@@ -1,5 +1,9 @@
 package com.package2;
-
+/**
+ * 
+ * @author Kenny
+ *继承和重载
+ */
 public class Test3{
 	public static void main(String args[]){
 		
