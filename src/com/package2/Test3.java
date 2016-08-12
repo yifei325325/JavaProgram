@@ -1,4 +1,9 @@
 package com.package2;
+
+import com.package3.Animal;
+import com.package3.Cat;
+import com.package3.Dog;
+
 /**
  * 
  * @author Kenny
